@@ -1,0 +1,72 @@
+{
+    "users" :
+    [
+        {
+          "id": 1,
+          "nama": "Aditya",
+          "alamat": "Jakarta",
+          "nohp": "0888986886"
+        },
+        {
+          "id": 2,
+          "nama": "Rendi",
+          "alamat": "Neraka",
+          "nohp": "0888986886"
+        },{
+          "id": 3,
+          "nama": "Nandia",
+          "alamat": "Jonggol",
+          "nohp": "0888986886"
+        },{
+          "id": 4,
+          "nama": "Alm. Arival",
+          "alamat": "Telkom Landmark",
+          "nohp": "0888986886"
+        },{
+          "id": 5,
+          "nama": "Alm. Arival",
+          "alamat": "Telkom Landmark",
+          "nohp": "0888986886"
+        },{
+          "id": 6,
+          "nama": "Alm. Arival",
+          "alamat": "Telkom Landmark",
+          "nohp": "0888986886"
+        },{
+          "id": 7,
+          "nama": "Alm. Arival",
+          "alamat": "Telkom Landmark",
+          "nohp": "0888986886"
+        },{
+          "id": 8,
+          "nama": "Alm. Arival",
+          "alamat": "Telkom Landmark",
+          "nohp": "0888986886"
+        },{
+          "id": 9,
+          "nama": "Alm. Arival",
+          "alamat": "Telkom Landmark",
+          "nohp": "0888986886"
+        },{
+          "id": 10,
+          "nama": "Alm. Arival",
+          "alamat": "Telkom Landmark",
+          "nohp": "0888986886"
+        },{
+          "id": 11,
+          "nama": "Alm. Arival",
+          "alamat": "Telkom Landmark",
+          "nohp": "0888986886"
+        },{
+          "id": 12,
+          "nama": "Alm. Arival",
+          "alamat": "Telkom Landmark",
+          "nohp": "0888986886"
+        },{
+          "id": 4,
+          "nama": "Alm. Arival",
+          "alamat": "Telkom Landmark",
+          "nohp": "0888986886"
+        }
+      ]
+}
